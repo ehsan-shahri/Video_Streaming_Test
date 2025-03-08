@@ -1,0 +1,1 @@
+This repository provides a collection of client-server bash scripts for assessing hybrid network performance. These scripts evaluate maximum throughput while streaming the highest possible number of high-quality videos over Wi-Fi. By indicating the client, and server interface IPs you can run the scripts to measure the mentioned metrics. 
