@@ -3,7 +3,7 @@ Author: Ehsan Shahri
 Email: ehsan.shahri@ua.pt
 Date: 2025-01-08
 Version: 2.07
-Description: This script evaluates the performance of Wi-Fi 7 networks. This code runs on a client to captuter and send mulitiple instanse of a video stream to a server.
+Description: This script evaluates the performance of Wi-Fi 7 networks. This code runs on a client to capture and send multiple instances of a video stream to a server.
 """
 
 
