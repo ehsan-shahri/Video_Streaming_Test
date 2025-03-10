@@ -1,3 +1,11 @@
+""" 
+Author: Ehsan Shahri
+Email: ehsan.shahri@ua.pt
+Date: 2025-01-08
+Version: 1.03
+Description: This script evaluates the performance of Wi-Fi 7 networks. This code runs on a server to receive multiple instances of a video stream received from a server.
+"""
+
 #!/bin/bash
 
 # Define the Wi-Fi interface to capture from
